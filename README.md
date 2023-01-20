@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexAndries
 - 👀 I’m interested in Web Development (Frontend -> Angular, React; Backend -> Nodejs, Python and GoLang)
 - 🌱 I’m currently learning Machine Learning and Graph Database (Neo4j)
-- 📫 How to reach me: mailto:alexandru.andries@outlook.com
+- 📫 How to reach me: alexandru.andries@outlook.com
 
 <!---
 AlexAndries/AlexAndries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
